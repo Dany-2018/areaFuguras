@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\bin\Debug\net7.0\AreaFigurasGeometricas.exe
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\bin\Debug\net7.0\AreaFigurasGeometricas.deps.json
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\bin\Debug\net7.0\AreaFigurasGeometricas.runtimeconfig.json
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\bin\Debug\net7.0\AreaFigurasGeometricas.dll
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\bin\Debug\net7.0\AreaFigurasGeometricas.pdb
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.AssemblyInfo.cs
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.dll
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\refint\AreaFigurasGeometricas.dll
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.pdb
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\AreaFigurasGeometricas.genruntimeconfig.cache
+C:\Users\ACER\Documents\ApiParking\Final\AreaFigurasGeometricas\AreaFigurasGeometricas\obj\Debug\net7.0\ref\AreaFigurasGeometricas.dll
